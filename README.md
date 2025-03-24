@@ -1,6 +1,5 @@
 # pbe2-vpf01-2025
 Trabalho pbe aula 05
-# README
 
 ## Descrição do Projeto
 Este é um sistema de gerenciamento de pedidos para uma pizzaria, desenvolvido utilizando **Node.js** e **Prisma ORM** com **MySQL**. O projeto permite a criação, leitura, atualização e remoção de pedidos, clientes e pizzas, garantindo um controle eficiente dos pedidos realizados.
